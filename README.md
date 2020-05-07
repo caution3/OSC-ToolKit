@@ -13,3 +13,11 @@ These features are a priority to implement. OSC-ToolKit's first purpose is to be
 These are things I'm interested in implementing, but may or may not be worked on.
 - Publishing tools for developers to push updates and manage homebrew store pages they own.
 - Area for downloading the latest Open Shop version.
+
+# Releases
+### Downloading the Stable Release
+To download the latest stable release of OSC ToolKit, [click here](https://github.com/caution3/OSC-ToolKit/releases).
+
+### Building from a Source
+You'll need to have Node.js with npm installed. OSC ToolKit has build and make commands you can use with npm.
+If you want to help develop OSC ToolKit, test the beta branch or even just change the theme of the title and menu bars, you are always welcome to fetch and clone the source!
