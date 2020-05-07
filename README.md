@@ -2,6 +2,7 @@
 
 # About
 OSC ToolKit is an Electron powered application that can be used to interact with the Open Shop's services from your PC. This is a GUI alternative to [dhtdht020's osc-dl](https://github.com/dhtdht020/osc-dl) which is made in Python and is **great** if you want to do some advanced actions such as making shell/batch scripts that download a list of homebrew.
+> You should be using osc-dl if you only plan on batch downloading homebrew, OSC ToolKit will only make it tedious.
 
 ### Core Features
 These features are a priority to implement. OSC-ToolKit's first purpose is to be intuitive and provide an experience similar to the WSC while expanding certain aspects.
